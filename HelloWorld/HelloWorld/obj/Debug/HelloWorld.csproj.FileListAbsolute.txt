@@ -1,0 +1,6 @@
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\casper.ovaldius\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
